@@ -124,6 +124,9 @@ footer {
 .card-body {
     padding: 15px;
 }
+.card-body a:hover{
+    color: #ff0000; 
+}
 
 .card-title {
     font-size: 1.7em;
